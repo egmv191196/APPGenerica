@@ -26,6 +26,8 @@ public class CCLogger {
     public static String systemVersion, platformId, provedorCelular;
     public static String A920 = "A920";
 
+//    Class<?> clase = Class.forName(NGRegistro.class.getCanonicalName() + registroID);
+//    NGRegistro registro = (NGRegistro) clase.newInstance();
     private CCLogger() {
     }
 

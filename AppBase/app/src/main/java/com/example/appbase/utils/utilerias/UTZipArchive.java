@@ -2,6 +2,8 @@ package com.example.appbase.utils.utilerias;
 
 import com.example.appbase.logger.CCLogger;
 
+import org.apache.commons.codec.binary.Base64;
+
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
 import java.io.BufferedReader;

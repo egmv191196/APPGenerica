@@ -19,6 +19,8 @@ import java.util.Date;
 public class Application extends android.app.Application {
     private static final String TAG = Application.class.getSimpleName();
 
+
+
     @Override
     public void onCreate() {
         super.onCreate();
